@@ -62,6 +62,46 @@
         "symbol": "ETH",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/ETH.png"
+      },
+      {
+        "chainId": 80001,
+        "address": "0xA54409E121A06b0dBDAd4b7873678765F3Ba0f14",
+        "name": "Aave",
+        "symbol": "AAVE",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/aave.png"
+      },
+      {
+        "chainId": 80001,
+        "address": "0xAc5875B6446821E5Facf905aDa9b78F6F4289b46",
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/Decentraland.png"
+      },
+      {
+        "chainId": 80001,
+        "address": "0xcD012806571A7C04227BE82D4bf0046fd5832F84",
+        "name": "Maker",
+        "symbol": "MKR",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/Maker-mkr.png"
+      },
+      {
+        "chainId": 80001,
+        "address": "0x959832d8f790f95cB706C4867a1bBb96C5C84d07",
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/Shiba-inu.png"
+      },
+      {
+        "chainId": 80001,
+        "address": "0x62c2E50f6584a64186eBdAbC9B173033F21A5Dac",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logo/main/usd-coin.png"
       }
     ],
     "version": {
