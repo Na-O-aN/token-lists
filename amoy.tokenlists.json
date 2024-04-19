@@ -1,0 +1,124 @@
+{
+    "name": "TEST",
+    "logoURI": "",
+    "timestamp": "2024-04-19T15:57:01.868Z",
+    "tokens": [
+      {
+        "chainId": 80002,
+        "address": "0x006F83F13632852C1f2CC9af62E2a976fa8990C1",
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x006F83F13632852C1f2CC9af62E2a976fa8990C1.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x0F92E581281a7b70B8EAb79Fafa69f47cC01367F",
+        "name": "The Graph",
+        "symbol": "GRT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x0F92E581281a7b70B8EAb79Fafa69f47cC01367F.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x27071f2733Ebb3a7DCEa80577E29f2a53b78a6fB",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x27071f2733Ebb3a7DCEa80577E29f2a53b78a6fB.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x560CDeb9D0E9370B12AA4d05B664c751d175ae9b",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x560CDeb9D0E9370B12AA4d05B664c751d175ae9b.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x57945DF84bABcEE8C42578d238a8Ff7f6707C838",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x57945DF84bABcEE8C42578d238a8Ff7f6707C838.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x7385CD4C15c7584f249B6573b63B824Be284B300",
+        "name": "DAI Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x7385CD4C15c7584f249B6573b63B824Be284B300.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621",
+        "name": "Polygon Matic",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0x9a0BFC5935b385120C04fEbF3ebE360D152558D8",
+        "name": "Trump",
+        "symbol": "MAGA",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x9a0BFC5935b385120C04fEbF3ebE360D152558D8.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0xa5677cE8aFFeD47a3ED45bb4ffcc5194717e1caf",
+        "name": "Aave",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0xa5677cE8aFFeD47a3ED45bb4ffcc5194717e1caf.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0xc7dc192850D53cf437e5C8fAa9edFCedF1475b1b",
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0xc7dc192850D53cf437e5C8fAa9edFCedF1475b1b.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0xf08eA729d0951BF45495a38B3f29F88CE4f01F17",
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0xf08eA729d0951BF45495a38B3f29F88CE4f01F17.png"
+      },
+      {
+        "chainId": 80002,
+        "address": "0xfd4e88DFCe6ffA3Ca207B60a74858EBD72D99997",
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0xfd4e88DFCe6ffA3Ca207B60a74858EBD72D99997.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    }
+  }
