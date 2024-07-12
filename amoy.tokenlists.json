@@ -6,8 +6,8 @@
       {
         "chainId": 80002,
         "address": "0x006F83F13632852C1f2CC9af62E2a976fa8990C1",
-        "name": "Ether",
-        "symbol": "ETH",
+        "name": "Wrapped Ether",
+        "symbol": "wETH",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x006F83F13632852C1f2CC9af62E2a976fa8990C1.png"
       },
@@ -62,8 +62,8 @@
       {
         "chainId": 80002,
         "address": "0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621",
-        "name": "Polygon Matic",
-        "symbol": "MATIC",
+        "name": "Wrapped Polygon Matic",
+        "symbol": "wMATIC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Na-O-aN/logos/master/80002/0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621.png"
       },
